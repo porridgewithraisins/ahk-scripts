@@ -1,5 +1,5 @@
-!vit::santhanakrishnan.b2020@vitstudent.in
+!vit::santhanakrishnan.b2020@vitstudent.ac.in
 !fn::B Santhanakrishnan
-!vitpwd::BsxR416*
+!vitpwd::
 !em::santhanambr2002@gmail.com
 !mob::6379042392
